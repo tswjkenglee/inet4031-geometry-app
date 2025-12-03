@@ -13,12 +13,4 @@ This is a simple Flask web application that calculates the volumes of basic geom
 
 ## What Was Learned
 
-- How to build a basic Flask web app and connect routes to HTML pages
-
-- How to pass form data from HTML into Python
-
-- How to organize code into templates and separate Python files
-
-- How to write simple unit tests using Python’s unittest
-
-- How to push a project to GitHub with a .gitignore
+During this Lab I learned how Flask works and how a web app connects Python code to HTML pages using routes and templates. I learned how to send form data from the browser to Python functions and displaying results back to the user. I also learned how to separate code into different files, write unit tests using Python’s unittest module, and verify that my functions were calculating the correct values. On the GitHub side, I learned how to create a repository with a proper .gitignore and understand how applications can run both locally and inside containers on a VM.
